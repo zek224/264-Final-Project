@@ -1,0 +1,29 @@
+{
+  "name": "264-final-project",
+  "version": "1.0.0",
+  "description": "Final Project for CSE264",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zek224/264-Final-Project.git"
+  },
+  "keywords": [
+    "Web",
+    "Systems",
+    "Platformer",
+    "264",
+    "game"
+  ],
+  "author": "Zeeshan Khan, Steven Nazaroff, Satyam Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zek224/264-Final-Project/issues"
+  },
+  "homepage": "https://github.com/zek224/264-Final-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
